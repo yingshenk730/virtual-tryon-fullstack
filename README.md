@@ -8,5 +8,6 @@ Store the downloaded model in the checkpoints folder and place it in the/backend
 4. run python app.py
 
 ## Run frontend
-1. Install Dependencies -- npm install
-2. run npm run dev 
+1. cd client
+2. Install Dependencies -- npm install
+3. run npm run dev 
