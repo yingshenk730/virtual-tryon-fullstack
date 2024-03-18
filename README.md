@@ -7,6 +7,6 @@ Store the downloaded model in the checkpoints folder and place it in the/backend
 3. Install dependencies -- pip install -r requirements.txt
 4. run python app.py
 
-## Run backend
+## Run frontend
 1. Install Dependencies -- npm install
 2. run npm run dev 
