@@ -1,4 +1,4 @@
-# COMP313-Group2
+# virtual try-on fullstack application 
 Please download models from  [DropBOX LINK](https://www.dropbox.com/scl/fo/i35u2ubo8aa50kq46ks1i/h?rlkey=f6p5ijjhmzrujzved63sobd6t&dl=0)
 Store the downloaded model in the checkpoints folder and place it in the/backend directory.
 ## Run backend
